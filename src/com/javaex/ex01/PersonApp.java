@@ -17,7 +17,7 @@ public class PersonApp {
 		Scanner sc = new Scanner(System.in);
 		
 		
-		 Reader fr = new FileReader("C:\\java Study\\workspace\\미니프로젝트\\PhoneDB.txt");
+		 Reader fr = new FileReader("C:\\java Study\\file\\PhoneDB_원본.txt");
 		 BufferedReader bf = new BufferedReader(fr);
 		 
 		 
